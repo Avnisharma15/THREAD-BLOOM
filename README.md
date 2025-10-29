@@ -6,7 +6,7 @@ This project showcases creativity, layout design, and interactive functionality 
 ---
 
 ## 🌐 Live Demo
-🔗 [View Website](https://avni-sharma.github.io/THREAD-BLOOM/)
+🔗 [View Website](https://avnisharma15.github.io/THREAD-BLOOM/)
 
 ---
 
